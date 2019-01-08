@@ -1,0 +1,7 @@
+[package]
+name = "Console-Tetris-Rust-Edition"
+version = "0.1.0"
+authors = ["Malcolm Wigren <trekommafem2@gmail.com>"]
+edition = "2018"
+
+[dependencies]
